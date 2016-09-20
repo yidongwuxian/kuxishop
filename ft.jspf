@@ -1,0 +1,65 @@
+<div class="nav-ft">
+    <div class="w12">
+        <div class="tt">全国统一合伙人咨询热线: 400-0656-555</div>
+        <div class="con">
+            <div class="con-left fl">
+                <dl>
+                    <dt>好妈妈 </dt>
+                    <dd><a>关于好妈妈</a><span>|</span></dd>
+                    <dd><a>关于库洗生活</a><span>|</span></dd>
+                    <dd><a>关于快闪生活</a><span>|</span></dd>
+                    <dd><a>招贤纳士</a></dd>
+                </dl>
+                <dl>
+                    <dt>招商加盟</dt>
+                    <dd><a>库洗生活加盟</a><span>|</span></dd>
+                    <dd><a>快闪生活加盟</a></dd>
+                </dl>
+                <dl class="last">
+                    <dt>联系我们</dt>
+                    <dd>好妈妈科技股份有限公司</dd>
+                    <dd>公司地址：北京市总部基地一区19号楼6层</dd>
+                    <dd>公司电话：010-6565552&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;             业务邮箱：haomamakj@163.com</dd>
+                </dl>
+            </div>
+            <div class="con-right fl">
+                <ul>
+                    <li>
+                        <img src="img/erweima.png" />
+                        <span>好妈妈微信</span>
+                    </li>
+                    <li>
+                        <img src="img/erweima.png" />
+                        <span>好妈妈微博</span>
+                    </li>
+                    <li>
+                        <img src="img/erweima.png" />
+                        <span>库洗生活微信</span>
+                    </li>
+                    <li>
+                        <img src="img/erweima.png" />
+                        <span>快闪生活微信</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="ft">
+    <div class="w12">
+        <div class="con">
+            <div class="con-left fl">
+                <dl>
+                    <dd><a>库洗生活</a><span>|</span></dd>
+                    <dd><a>快闪生活</a><span>|</span></dd>
+                    <dd><a>优品汇</a><span>|</span></dd>
+                    <dd><a>河北家兴商贸集团有限公司</a><span>|</span></dd>
+                    <dd><a>易城理想</a></dd>
+                </dl>
+            </div>
+            <div class="con-right fr">
+                <p>好妈妈科技股份有限公司版权所有 | 京ICP备：12345678号</p>
+            </div>
+        </div>
+    </div>
+</div>

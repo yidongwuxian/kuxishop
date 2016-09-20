@@ -1,0 +1,19 @@
+<div class="hd">
+    <div class="in">
+        <span class="fr"><s></s>400-065-6555</span>
+    </div>
+</div>
+<div class="nav">
+    <div class="in">
+        <a class="logo fl"><img src="img/logo.png" /></a>
+        <ul class="fr">
+            <li><a href="index.html">首页</a></li>
+            <li class="cur"><a href="abstract.html">企业简介</a></li>
+            <li><a href="info.html">产品介绍</a></li>
+            <li><a>合伙人招募</a></li>
+            <li ><a href="factory.html">库洗工厂</a></li>
+            <li><a href="news.html">新闻动态</a></li>
+            <li><a href="contact.html">联系我们</a></li>
+        </ul>
+    </div>
+</div>
